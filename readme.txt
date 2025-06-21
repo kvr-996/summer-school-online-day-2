@@ -28,3 +28,4 @@ Descendant Selector (div p, div img, div h2):
 Targets paragraph (p), image (img), and heading (h2) elements that are inside a div.
 
 Group Selector(h1,h2):
+Used to add styles to common elements, or classes.
